@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Thedini Praboda</h1>
 <h3 align="center">IT Student| Building Projects and Exploring the Future of Tech</h3>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **MERN**
 -  🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **thedinisilva22@gmail.com**
 
