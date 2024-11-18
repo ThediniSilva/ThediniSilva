@@ -2,7 +2,13 @@
 <h3 align="center">IT Student| Building Projects and Exploring the Future of Tech</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ThediniSilva&label=Profile%20views&color=0e75b6&style=flat" alt="ThediniSilva" /> </p>
 
+
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/Riya-Panhotra/Riya-Panhotra/refs/heads/main/image/Developer.gif"  
+  height = "250px"/>
+ 
 - 🌱 I’m currently learning **MERN**
 -  🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
@@ -10,7 +16,7 @@
 
 - 📫 How to reach me **thedinisilva22@gmail.com**
 
- </br>
+ </br> </br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
