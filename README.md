@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Thedini Praboda</h1>
+<h1 align="center"> Welcome to Thedini Praboda's Profile👋</h1>
 <h3 align="center">IT Student| Building Projects and Exploring the Future of Tech</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ThediniSilva&label=Profile%20views&color=0e75b6&style=flat" alt="ThediniSilva" /> </p>
+
 
 - 🌱 I’m currently learning **MERN**
 -  🧑‍🎓 I’m an Undergraduate at **SLIIT**
@@ -7,6 +9,13 @@
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **thedinisilva22@gmail.com**
+
+
+
+| ![Thedini's github stats](https://github-readme-stats.vercel.app/api?username=ThediniSilva&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThediniSilva&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThediniSilva&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ThediniSilva&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
