@@ -20,11 +20,12 @@
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 
-| ![Thedini's github stats](https://github-readme-stats.vercel.app/api?username=ThediniSilva&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThediniSilva&theme=tokyonight) |
+| ![Thedini's github stats](https://github-readme-stats.vercel.app/api?username=ThediniSilva&show_icons=true&theme=tokyonight) | ![Thedini GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ThediniSilva&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThediniSilva&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=ThediniSilva&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 </br>
+
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
 <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
